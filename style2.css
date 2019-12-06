@@ -1,0 +1,37 @@
+.mainFrame{
+    width: 1920px;
+}
+.mainContainer{
+    width: 100%;
+    background-color: rgb(27, 27, 27);
+}
+.header{
+    width: 100%;
+    background-color: rgb(27, 27, 27);
+    height: 350px; 
+    display: flex;
+}
+.header-image{
+
+}
+.headerTexts{
+
+}
+.h2{
+
+}
+.header-paragraph{
+
+}
+.header-button{
+
+}
+.header-invite{
+
+}
+.header-invite-buttonNslogan{
+
+}
+.header-invite-button{
+
+}
